@@ -1,5 +1,6 @@
-Hola Amigos! ( Web developer/ Blockchain & ML Enthusiast/ Currently dwelling into Cloud Computing )
 ![Ola](https://github.com/AemieJ/AemieJ/raw/master/aj.gif)
+
+Hola Amigos! ( Web developer/ Blockchain & ML Enthusiast/ Currently dwelling into Cloud Computing )
 
 I am Aemie Jariwala, an undergrad at NIT, Surat. I love coding a bit too much and keep myself occupied with work. 
 I am a fan of comedy and technical TV series as well ( so I am a bit fun as well! )
