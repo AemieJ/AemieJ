@@ -9,8 +9,7 @@ with Apache & Outreachy. Will be posting all the important links below.
 
 A little more about me - 
 
-- [Website](https://aemieJ.github.io/)
-- [Outreachy Blog](https://aemiejariwala.wordpress.com) - Will be updating it to github pages after the intern!
+- [Website](https://aemiej.netlify.app/)
 - [Dev Blog](https://dev.to/aemiej)
 - [LinkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/)
 - [Email](mailto:aemie.j@gmail.com)
