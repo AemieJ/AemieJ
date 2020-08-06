@@ -1,17 +1,11 @@
 ## Hola Amigos! :wave:
 
 A <b>few pointers</b> on me: 
-<br>
-:relaxed: &nbsp; I am Aemie Jariwala, an undergrad at NIT, Surat. 
-<br>
-:zap: &nbsp; I love coding a bit too much and keep myself occupied with work. 
-<br>
-:computer: &nbsp; Currently, a full stack web developer, Blockchain & ML Enthusiast.
-<br>
-:movie_camera: &nbsp; I am a fan of comedy and technical TV series as well ( so I am a bit fun as well! ).
-<br>
-:eight_pointed_black_star: &nbsp; Last but not the least, I am an Outreachy'20 intern @Apache for improving camel website. I have written blogs related to my journey 
-with Apache & Outreachy. Will be posting all the important links below. 
+:relaxed: &nbsp; I am Aemie Jariwala, an undergrad at NIT, Surat.   
+:zap: &nbsp; I love coding a bit too much and keep myself occupied with work.   
+:computer: &nbsp; Currently, a full stack web developer, Blockchain & ML Enthusiast.  
+:movie_camera: &nbsp; I am a fan of comedy and technical TV series as well ( so I am a bit fun as well! ).  
+:eight_pointed_black_star: &nbsp; Last but not the least, I am an Outreachy'20 intern @Apache for improving camel website. I have written blogs related to my journey with Apache & Outreachy. Will be posting all the important links below.   
 
 
 ## Github Usage ~ Status 
