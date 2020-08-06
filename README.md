@@ -1,8 +1,6 @@
-![Ola](https://github.com/AemieJ/AemieJ/raw/master/aj.gif)
-
 ## Hola Amigos! :wave:
 
-A few pointers on me: 
+A <b>few pointers</b> on me: 
 <br>
 :relaxed: &nbsp; I am Aemie Jariwala, an undergrad at NIT, Surat. 
 <br>
@@ -16,13 +14,13 @@ A few pointers on me:
 with Apache & Outreachy. Will be posting all the important links below. 
 
 
-### Github Usage ~ Status 
+## Github Usage ~ Status 
 ![Aemie's github stats](https://github-readme-stats.vercel.app/api?username=AemieJ&show_icons=true&hide_border=true&theme=dark)   
 
-### Language Usage ~ Status
+## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AemieJ&layout=compact&theme=dark&show_icons=true&hide_border=true)
 
-Links where you can find me! 
+## Links where you can find me! 
 <br>
 :pushpin: &nbsp; [Website](https://aemiej.netlify.app/)
 <br>
