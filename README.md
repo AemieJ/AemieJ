@@ -1,6 +1,6 @@
 ## Hola Amigos! :wave:
 
-A <b>few pointers</b> on me: 
+A <b>few pointers</b> on me:   
 :relaxed: &nbsp; I am Aemie Jariwala, an undergrad at NIT, Surat.   
 :zap: &nbsp; I love coding a bit too much and keep myself occupied with work.   
 :computer: &nbsp; Currently, a full stack web developer, Blockchain & ML Enthusiast.  
