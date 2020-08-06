@@ -21,13 +21,8 @@ with Apache & Outreachy. Will be posting all the important links below.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AemieJ&layout=compact&theme=dark&show_icons=true&hide_border=true)
 
 ## Links where you can find me! 
-<br>
-:pushpin: &nbsp; [Website](https://aemiej.netlify.app/)
-<br>
-:pushpin: &nbsp; [Dev Blog](https://dev.to/aemiej)
-<br>
-:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/)
-<br>
-:pushpin: &nbsp; [Email](mailto:aemie.j@gmail.com)
-<br>
-:pushpin: &nbsp; [Resume](https://aemiej.netlify.app/resume-aemie.pdf)
+:pushpin: &nbsp; [Website](https://aemiej.netlify.app/)  
+:pushpin: &nbsp; [Dev Blog](https://dev.to/aemiej)  
+:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/)  
+:pushpin: &nbsp; [Email](mailto:aemie.j@gmail.com)  
+:pushpin: &nbsp; [Resume](https://aemiej.netlify.app/resume-aemie.pdf)  
