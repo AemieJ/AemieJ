@@ -9,10 +9,10 @@ A <b>few pointers</b> on me:
 
 
 ## Github Usage ~ Status 
-![Aemie's github stats](https://github-readme-stats.vercel.app/api?username=AemieJ&show_icons=true&hide_border=true&theme=dark)   
+![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=AemieJ&show_icons=true&hide_border=true&theme=dark&private=true)   
 
 ## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AemieJ&layout=compact&theme=dark&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=AemieJ&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
 ## Links where you can find me! 
 :pushpin: &nbsp; [Website](https://aemiej.netlify.app/)  
